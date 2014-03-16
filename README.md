@@ -4,6 +4,7 @@ sublime text 2/3 Configuration and usefull plugins for WEB FRONT DEVELOPPER
 ----------
 
 Copy/paste ST2 packages into %APPDATA%\Sublime Text 2
+
 Copy/paste ST3 packages into %APPDATA%\Sublime Text 3
 
 Full tutorial (FR) : [http://www.js-attitude.fr/2013/03/12/sublime-text-dev-web-config-trucs-astuces/](http://www.js-attitude.fr/2013/03/12/sublime-text-dev-web-config-trucs-astuces/)
