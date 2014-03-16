@@ -1,0 +1,26 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Better CoffeeScript",
+		"EditorConfig",
+		"Emmet",
+		"FakeImg.pl Image Placeholder Snippet",
+		"Handlebars",
+		"JsFormat",
+		"Local History",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"TortoiseSVN",
+		"Unicode Character Highlighter"
+	],
+	"startup_sec": 0.1303752,
+	"syntax":
+	{
+		"JSON": 1
+	},
+	"time": 1394965204
+}

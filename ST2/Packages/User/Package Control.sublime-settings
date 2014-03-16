@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"CoffeeScript",
+		"EditorConfig",
+		"Emmet",
+		"Handlebars",
+		"JsFormat",
+		"Local History",
+		"LoremIpsum",
+		"Package Control",
+		"Placehold.it Image Tag Generator",
+		"Sass",
+		"SublimeLinter",
+		"TortoiseSVN",
+		"Unicode Character Highlighter"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements"
+	]
+}
