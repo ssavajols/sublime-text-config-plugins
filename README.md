@@ -42,9 +42,9 @@ Or
 
 ### EditorConfig ###
 
-**Package name :** Editor config
+**Package name :** EditorConfig
 
-**Documentation :** [http://editorconfig.org](http://editorconfig.org)
+**Documentation :** [https://sublime.wbond.net/packages/EditorConfig](https://sublime.wbond.net/packages/EditorConfig)
 
 **Description :**
 EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
@@ -55,7 +55,7 @@ EditorConfig helps developers define and maintain consistent coding styles betwe
 
 **Package name :** Emmet
 
-**Documentation :** [http://emmet.io](http://emmet.io)
+**Documentation :** [https://sublime.wbond.net/packages/Emmet](https://sublime.wbond.net/packages/Emmet)
 
 **Description :** 
 Emmet is a plugin for many popular text editors which greatly improves HTML & CSS 
@@ -66,7 +66,7 @@ Emmet is a plugin for many popular text editors which greatly improves HTML & CS
 
 **Package name :** AdvancedNewFile
 
-**Documentation :** [https://github.com/skuroda/Sublime-AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+**Documentation :** [https://sublime.wbond.net/packages/AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile)
 
 **Description :** 
 Advanced file creation for Sublime Text 2 and Sublime Text 3.This plugin allows for faster file creation within a project. Please see the [Features](https://github.com/skuroda/Sublime-AdvancedNewFile#features) section for more detailed information about advanced features.
@@ -77,7 +77,7 @@ Advanced file creation for Sublime Text 2 and Sublime Text 3.This plugin allows 
 
 **Package name :** Alignment
 
-**Documentation :** [http://wbond.net/sublime_packages/alignment](http://wbond.net/sublime_packages/alignment)
+**Documentation :** [https://sublime.wbond.net/packages/Alignment](https://sublime.wbond.net/packages/Alignment)
 
 **Description :** 
 Dead-simple alignment of multi-line selections and multiple selections for Sublime Text 2.
@@ -88,7 +88,7 @@ Dead-simple alignment of multi-line selections and multiple selections for Subli
 
 **Package name :** Handlebars
 
-**Documentation :** [https://github.com/daaain/Handlebars](https://github.com/daaain/Handlebars)
+**Documentation :** [https://sublime.wbond.net/packages/Handlebars](https://sublime.wbond.net/packages/Handlebars)
 
 **Description :** 
 It's a great JavaScript templating engine, based on [Mustache](http://mustache.github.io/ "Mustache"), but adding the ability to precompile templates and to create custom helpers.
@@ -101,7 +101,9 @@ Official website: [handlebarsjs.com](handlebarsjs.com)
 
 **Package name :** CoffeeScript
 
-**Documentation :** [https://github.com/Xavura/CoffeeScript-Sublime-Plugin](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
+**Documentation :** [https://sublime.wbond.net/packages/CoffeeScript](https://sublime.wbond.net/packages/CoffeeScript)
+
+[https://sublime.wbond.net/packages/Better%20CoffeeScript](https://sublime.wbond.net/packages/Better%20CoffeeScript)
 
 **Description :** 
 Syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
@@ -112,7 +114,7 @@ Syntax highlighting and checking, commands, shortcuts, snippets, compilation and
 
 **Package name :** JsFormat
 
-**Documentation :** [https://github.com/Xavura/CoffeeScript-Sublime-Plugin](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
+**Documentation :** [https://sublime.wbond.net/packages/JsFormat](https://sublime.wbond.net/packages/JsFormat)
 
 **Description :** 
 JsFormat is a javascript formatting plugin for Sublime Text 2. It uses the command-line/python-module javascript formatter from [http://jsbeautifier.org/](http://jsbeautifier.org/) to format whole js or json files, or the selected portion(s).
@@ -123,7 +125,7 @@ JsFormat is a javascript formatting plugin for Sublime Text 2. It uses the comma
 
 **Package name :** SASS
 
-**Documentation :** [https://github.com/nathos/sass-textmate-bundle](https://github.com/nathos/sass-textmate-bundle)
+**Documentation :** [https://sublime.wbond.net/packages/Sass](https://sublime.wbond.net/packages/Sass)
 
 **Description :** 
 This add-on adds syntax highlighting and tab/code completion for Sass and SCSS files. It features Zen Coding shortcuts for many CSS properties, making you look like some kind of stylesheet wizard to everyone around you. You've got to like that.
@@ -134,7 +136,7 @@ This add-on adds syntax highlighting and tab/code completion for Sass and SCSS f
 
 **Package name :** SublimeLinter
 
-**Documentation :** [https://github.com/SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
+**Documentation :** [https://sublime.wbond.net/packages/SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter)
 
 **Description :** 
 SublimeLinter is a plugin that supports "lint" programs (known as "linters"). SublimeLinter highlights
@@ -149,7 +151,7 @@ SublimeLinter is a plugin that supports "lint" programs (known as "linters"). Su
 
 **Package name :** Unicode Character Highlighter
 
-**Documentation :** [https://github.com/possan/sublime_unicode_nbsp](https://github.com/possan/sublime_unicode_nbsp)
+**Documentation :** [https://sublime.wbond.net/packages/Unicode%20Character%20Highlighter](https://sublime.wbond.net/packages/Unicode%20Character%20Highlighter)
 
 **Description :** 
 This plug-in highlights characters such as non breakable space, characters that often break compilers and scripts and is almost impossible to spot in the editor.
@@ -161,7 +163,7 @@ This plug-in highlights characters such as non breakable space, characters that 
 
 **Package name :** TortoiseSVN
 
-**Documentation :** [http://wbond.net/sublime_packages/tortoise](http://wbond.net/sublime_packages/tortoise)
+**Documentation :** [https://sublime.wbond.net/packages/TortoiseSVN](https://sublime.wbond.net/packages/TortoiseSVN)
 
 **Description :** 
 TortoiseSVN, TortoiseGit and TortoiseHg integration with Sublime Text 2 via menus and keyboard shortcuts.
@@ -175,7 +177,7 @@ TortoiseSVN, TortoiseGit and TortoiseHg integration with Sublime Text 2 via menu
 
 **Package name :** Local History
 
-**Documentation :** [https://github.com/vishr/local-history](https://github.com/vishr/local-history)
+**Documentation :** [https://sublime.wbond.net/packages/Local%20History](https://sublime.wbond.net/packages/Local%20History)
 
 **Description :** 
 A Sublime Text 2/3 plugin for maintaining local history of files
@@ -188,7 +190,7 @@ A Sublime Text 2/3 plugin for maintaining local history of files
 
 **Package name :** LoremIpsum
 
-**Documentation :** [https://github.com/billymoon/LoremIpsum](https://github.com/billymoon/LoremIpsum)
+**Documentation :** [https://sublime.wbond.net/packages/LoremIpsum](https://sublime.wbond.net/packages/LoremIpsum)
 
 **Description :** 
 An extension for Sublime Text 2 and 3!
@@ -204,7 +206,7 @@ It allow you to Insert Lorem Ipsum in the editor via menu items or keyboard shor
 
 **Package name :** Placehold.it Image Tag Generator
 
-**Documentation :** [https://github.com/SubZane/Sublime-Placehold.it](https://github.com/SubZane/Sublime-Placehold.it)
+**Documentation :** [https://sublime.wbond.net/packages/Placehold.it%20Image%20Tag%20Generator](https://sublime.wbond.net/packages/Placehold.it%20Image%20Tag%20Generator)
 
 **Description :** 
 Placehold.it plugin for Sublime Text 2
@@ -216,7 +218,7 @@ Placehold.it plugin for Sublime Text 2
 
 **Package name :** Side​Bar​Enhancements
 
-**Documentation :** [https://github.com/titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+**Documentation :** [https://sublime.wbond.net/packages/SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 
 **Description :** 
 Sublime Text 3+ Package. Install via an updated version of Package Control 2+. Just *DON'T install manually.
@@ -233,3 +235,15 @@ Preference to control if a buffer should be closed when affected by a deletion o
 
 Allows to display "file modified date" and "file size" on statusbar.
 
+
+
+
+
+### Inc-Dec-Value ###
+
+**Package name :** Inc-Dec-Value
+
+**Documentation :** [https://sublime.wbond.net/packages/Inc-Dec-Value](https://sublime.wbond.net/packages/Inc-Dec-Value)
+
+**Description :** 
+increase / decrease of numbers (integer and fractional), dates, hex color values, opposite relations or cycled enumerations on the configured value and a bonus - string actions (upper, lower, capitalize)
